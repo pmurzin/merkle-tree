@@ -21,3 +21,5 @@ To do clean up:
 ```sh
 make clean
 ```
+
+For detailed information about the functions provided by the internal `merkle` package, refer to the [README.md](internal/merkle/README.md) in the `internal/merkle` directory.
